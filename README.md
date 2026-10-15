@@ -2,8 +2,8 @@
 
 Segmentation of email subscribers into **Top**, **Middle** and **Lost** using RFM analysis (Mate Academy, Data Analytics).
 
-🔗 **Tableau dashboard:** [[Accounts RFM Segmentation](ВСТАВЬ_ССЫЛКУ_TABLEAU](https://public.tableau.com/views/AccountsRFMSegmentation/AccountsRFMSegmentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
-🔗 **Google Colab notebook:** [(https://colab.research.google.com/drive/1FNQxwwLNuc4k3cBBiYq_P2l-_7pECXdp?usp=sharing))
+🔗 **Tableau dashboard:** [Accounts RFM Segmentation](https://public.tableau.com/views/AccountsRFMSegmentation/AccountsRFMSegmentation)
+🔗 **Google Colab notebook:** [Open in Colab](https://colab.research.google.com/drive/1FNQxwwLNuc4k3cBBiYq_P2l-_7pECXdp?usp=sharing)
 
 ![Dashboard](dashboard.png)
 
